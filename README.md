@@ -15,9 +15,7 @@
 
 #### Studying in this moment:
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![Cloud](https://img.shields.io/badge/Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
-![C#](	https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 
 #### Databases:
 
