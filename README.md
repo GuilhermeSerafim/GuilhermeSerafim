@@ -1,4 +1,4 @@
-## Em cada desafio, vejo uma oportunidade de aprendizado, como um astrônomo diante de um mistério cósmico <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomo" width="30" height="30">
+## In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomo" width="30" height="30">
 
  
 #### My Skills
