@@ -1,9 +1,10 @@
-## In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomo" width="30" height="30">
+ ## In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomo" width="30" height="30">
 
  
 #### My Skills
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+	![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
