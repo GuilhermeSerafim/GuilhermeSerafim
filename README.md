@@ -1,6 +1,15 @@
 # Full-Stack Developer | Guiler
 
-## In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomer" width="30" height="30">
+<table>
+  <tr>
+    <td width="99%">
+      <h2>In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery</h2>
+    </td>
+    <td valign="middle">
+      <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomer" width="40">
+    </td>
+  </tr>
+</table>
 
 &nbsp;
 ## 🛠️ Skills & Technologies
