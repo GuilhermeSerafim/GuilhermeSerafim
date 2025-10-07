@@ -51,7 +51,8 @@
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
-<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSerafim&layout=compact&langs_count=8&theme=tokyonight" />&nbsp;
 
 ## 📫 Get in Touch
 <div>&nbsp;
@@ -60,6 +61,5 @@
 <a href="https://www.linkedin.com/in/guilherme-da-silva-serafim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"&nbsp; target="_blank"></a>&nbsp;
 </div>
 <br>
-&nbsp; <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSerafim&layout=compact&langs_count=8&theme=tokyonight" />
-&nbsp;&nbsp;
+&nbsp;
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
