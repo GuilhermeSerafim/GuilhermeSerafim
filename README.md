@@ -63,15 +63,8 @@
 </div>
 
 
-<table width="100%">
-  <tr>
-    <td width="90%">
-      <h2>"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."</h2>
-    </td>
-    <td width="10%" valign="middle" align="center">
+<div width="100%" align="center">
+      <p>"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."</p>
             <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif?cid=ecf05e47e0cszw6cmx7x5o86x278uidyi0zcnq6c3ng5lk26&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Astronomer" width="40">
-    </td>
-  </tr>
-</table>
-
+</div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=795548&height=120&section=footer"/>
