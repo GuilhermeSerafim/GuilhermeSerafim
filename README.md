@@ -47,8 +47,9 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
 
-#### 📚 Currently Studying
+#### 📚 Currently
 
+[![Hackathon NewHack & OpenAI](https://img.shields.io/badge/Hackathon%20NewHack%20&%20OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=black)](https://devsdeimpacto.imasters.com.br/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Hackathon%20DEVs%20de%20Impacto%20-&utm_campaign=NewHack%20009%20%28Copiar%29)
 ![Angular](https://img.shields.io/badge/Angular-795548?style=for-the-badge&logo=angular&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-795548?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-795548?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
