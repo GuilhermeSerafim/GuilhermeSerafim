@@ -26,6 +26,7 @@
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 
 #### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
