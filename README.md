@@ -13,14 +13,14 @@
 <br>
 
 # 🛠️ Skills & Technologies
-#### 🎨 Frontend
+### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![React.js](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux&logoColor=764ABC)&nbsp;
 
-#### ⚙️ Backend
+### ⚙️ Backend
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
@@ -28,18 +28,18 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=46E3B7)&nbsp;
 
-#### 🛢️ Databases
+### 🛢️ Databases
 ![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)&nbsp;
 
-#### 💻 Workstation Tools
+### 💻 Workstation Tools
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=Postman&logoColor=FF6C37)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)&nbsp;
@@ -48,7 +48,7 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05033)
 
-#### 📚 Currently
+### 📚 Currently
 ![Angular](https://img.shields.io/badge/Angular-795548?style=for-the-badge&logo=angular&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-795548?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-795548?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
