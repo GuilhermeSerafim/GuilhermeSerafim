@@ -4,14 +4,6 @@
 
 <br>
 
-# 📊 Github Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSerafim&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSerafim&layout=compact&theme=dark"/>
-</div>
-
-<br>
-
 # 🛠️ Skills & Technologies
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
@@ -53,6 +45,16 @@
 ![Angular](https://img.shields.io/badge/Angular-795548?style=for-the-badge&logo=angular&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-795548?style=for-the-badge&logo=openjdk&logoColor=black)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-795548?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
+
+
+<br>
+
+# 📊 Github Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSerafim&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSerafim&layout=compact&theme=dark"/>
+</div>
+
 <br>
 <br>
 
