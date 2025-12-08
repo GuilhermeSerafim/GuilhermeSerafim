@@ -49,15 +49,6 @@
 
 <br>
 
-# 📊 Github Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeSerafim&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSerafim&layout=compact&theme=dark"/>
-</div>
-
-<br>
-<br>
-
 # 📫 Get in Touch
 <div align="center">
 <a href="https://www.instagram.com/iamguiler/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
