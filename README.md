@@ -38,7 +38,6 @@
 * **Play Senac**: Full-stack court management system with **Java Spring Boot** and **Angular**.
 
 ### 📚 Currently Studying
-![English](https://img.shields.io/badge/English-A2_to_B1-795548?style=for-the-badge)&nbsp;
 ![Backend Architecture](https://img.shields.io/badge/Backend-Java-795548?style=for-the-badge)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-Certification-795548?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
