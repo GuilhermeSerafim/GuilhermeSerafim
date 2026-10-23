@@ -37,7 +37,7 @@
 * **GeoRisk**: 🥈 2nd Place at OpenAI Hackathon 2025. AI-powered flood risk analysis using **FastAPI** and **LangChain**.
 * **Play Senac**: Full-stack court management system with **Java Spring Boot** and **Angular**.
 
-### 📚 Currently Studying
+### 📚 Currently Studying (10/23)
 AWS & .NET
 
 <br>
