@@ -1,56 +1,22 @@
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=32&duration=2000&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+Profile!;Full-Stack+Developer;Building+Scalable+Solutions" alt="Typing SVG" /></a>
-</div>
+# Guilherme Serafim
 
-<br>
+Sou engenheiro full stack. Trabalho com backend, frontend, arquitetura, dados e IA aplicada, conectando interfaces, APIs e integrações às necessidades de cada projeto.
 
-# 🛠️ Skills & Technologies
+No meu [portfólio](https://guiler.vercel.app), apresento problemas, minha contribuição, decisões técnicas e limites dos projetos. Meu [hub pessoal](https://iamguiler.vercel.app) reúne outros caminhos para conhecer meu trabalho.
 
-### ⚙️ Backend & AI
-![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)&nbsp;
-![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=5C2D91)&nbsp;
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)&nbsp;
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)&nbsp;
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)&nbsp;
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=005571)&nbsp;
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)
+## Código e decisões técnicas
 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=DD0031)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6)&nbsp;
-![React.js](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+- **[Libra](https://github.com/GuilhermeSerafim/libra)** — Minha implementação de uma biblioteca pessoal em contexto acadêmico, com Java, Spring Boot, MongoDB e frontend integrado. Organiza livros por usuário e consulta metadados por ISBN. A implementação inclui controle de acesso pelo proprietário, sessão com cookies/CSRF e isolamento da integração com a Open Library. O repositório inclui testes de autorização e falhas externas; o contexto é acadêmico.
+- **[Portfólio](https://github.com/GuilhermeSerafim/guiler-portfolio)** — Desenvolvo a apresentação e a implementação do meu portfólio bilíngue. O conteúdo dos cases fica separado da interface; o consumo do feed de saúde trata timeout, dados inválidos e evidências expiradas. O analytics depende de consentimento.
+- **[Portfolio Health](https://github.com/GuilhermeSerafim/portfolio-health)** — Implementei um monitor em Python para as demonstrações públicas, com um contrato que distingue falha de verificação inconclusiva e define validade das observações. A sondagem fornece evidências limitadas de disponibilidade; não substitui testes funcionais nem garante SLA.
+- **[Play Senac](https://github.com/GuilhermeSerafim/play-senac)** — Projeto em equipe para reservas e administração de quadras esportivas. Minha contribuição concentrou-se no frontend Angular: interfaces, formulários, diálogos, responsividade, integração HTTP e atualização de listas com RxJS. As regras de conflito e a persistência pertencem à API desenvolvida pela equipe.
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
+## Experiência apresentada em cases
 
-### 🛢️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)&nbsp;
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=Oracle&logoColor=F80000)&nbsp;
-![SQL Server](https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoft-sql-server&logoColor=CC2927)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
+Os [cases no portfólio](https://guiler.vercel.app) mostram também trabalhos cuja avaliação passa pelo contexto e pela contribuição, mesmo quando o código comercial permanece privado:
 
-### 🚀 Main Missions (Top Projects)
-* **GeoRisk**: 🥈 2nd Place at OpenAI Hackathon 2025. AI-powered flood risk analysis using **FastAPI** and **LangChain**.
-* **Play Senac**: Full-stack court management system with **Java Spring Boot** and **Angular**.
+- **GeoRisk** — Participei de um protótipo em equipe. O case apresenta a separação entre cálculo heurístico e explicação por IA, com demonstração sintética.
+- **SEVEN Tools** — Minha participação na implementação profissional foi parcial, envolvendo interfaces, APIs e integrações. A demonstração usa dados sintéticos e não comprova a operação do produto original.
+- **Mesa de Negócios** — Trabalho profissional de implementação de uma landing page, apresentado no portfólio.
 
-### 📚 Currently Studying (10/23)
-AWS & .NET
-
-<br>
-
-# 📫 Get in Touch
-<div align="center">
-<a href="https://www.instagram.com/iamguiler/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href = "mailto:guilerstudies@gmail.com"> <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/guilherme-da-silva-serafim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div width="100%" align="center">
-      <p>"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."</p>
-      <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif" alt="Astronomer" width="40">
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=795548&height=120&section=footer"/>
+Em projetos colaborativos, delimito minha participação e preservo o reconhecimento do trabalho da equipe. As demonstrações sintéticas permitem explorar interfaces e decisões sem expor dados comerciais.
