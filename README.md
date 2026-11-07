@@ -82,7 +82,6 @@ Docker supports Libra's integration-test setup; Vercel hosts my portfolio; GitHu
 - **OrbTalus:** preparing cloud deployment for the prototype.
 
 <div align="center">
-<a href="https://www.instagram.com/iamguiler/" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 <p>"In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery."</p>
 <img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif" alt="Astronomer" width="40">
 </div>
