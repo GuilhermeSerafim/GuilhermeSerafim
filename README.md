@@ -2,24 +2,6 @@
 
 Full-stack developer building web applications, APIs and AI integrations. I am currently deepening my .NET practice with ASP.NET Core and Entity Framework Core.
 
-## Get in Touch
-
-<div align="center">
-<a href="https://guiler.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=xyz&logoColor=white" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/guilherme-da-silva-serafim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:guilerstudies@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=&logoColor=white" alt="Email"></a>
-</div>
-
-## Selected Projects
-
-### OrbTalus — environmental risk screening
-
-I developed the software, with research support from Bia. This geospatial prototype combines a map interface, a FastAPI API and AI-assisted explanations for preliminary environmental risk screening. Coverage depends on available data; outputs are exploratory, not validated predictions or a comprehensive assessment of a property or region. A project overview is available through my portfolio above.
-
-### [Play Senac](https://github.com/GuilhermeSerafim/play-senac) — court booking
-
-A sports-court booking application developed with a team. My contribution focused on the Angular reservation and administration interfaces, forms, responsive layouts and HTTP/RxJS integration. The team's [Spring Boot and MySQL backend](https://github.com/GuilhermeSerafim/play-senac-api) handles booking rules and persistence. The portfolio demonstration uses synthetic data and local operations.
-
 ## Tech Stack
 
 ### Backend
