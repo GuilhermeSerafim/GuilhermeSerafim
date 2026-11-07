@@ -8,13 +8,9 @@ Full-stack developer building web applications, APIs and AI integrations. I am c
 
 [![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=239120)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
 [![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=5C2D91)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
-[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
-[![EF Core](https://img.shields.io/badge/EF_Core-000000?style=for-the-badge)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
-[![Dapper](https://img.shields.io/badge/Dapper-000000?style=for-the-badge)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
 [![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB)](https://guiler.vercel.app/ "View my portfolio")&nbsp;
-[![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=005571)](https://guiler.vercel.app/ "View my portfolio")
 
 ### Applied AI
 
