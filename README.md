@@ -48,6 +48,6 @@ Full-stack developer building web applications, APIs and AI integrations. I am c
 
 <div align="center">
 <p>In every challenge, I see an opportunity for learning, like an astronomer faced with a cosmic mystery.</p>
-<img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif" alt="Astronomer" width="40">
+<a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://media2.giphy.com/media/26gskf95cHOTlQOL6/giphy.gif" alt="Astronomer" width="40"></a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000&height=120&section=footer"/>
