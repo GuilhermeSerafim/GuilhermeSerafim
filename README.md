@@ -20,7 +20,7 @@
 <p>
   <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge" alt="C#" /></a>
   <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&amp;logo=dotnet&amp;logoColor=512BD4" alt=".NET" /></a>
-  <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/Java-000000?style=for-the-badge" alt="Java" /></a>
+  <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=red" alt="Java" /></a>
   <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/Spring-000000?style=for-the-badge&amp;logo=spring&amp;logoColor=6DB33F" alt="Spring" /></a>
   <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&amp;logo=springboot&amp;logoColor=6DB33F" alt="Spring Boot" /></a>
   <a href="https://guiler.vercel.app/en" title="View my portfolio"><img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&amp;logo=python&amp;logoColor=3776AB" alt="Python" /></a>
